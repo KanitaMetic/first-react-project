@@ -1,5 +1,5 @@
 .team-card {
-  background-color: rgb(103, 166, 221);
+  background-color: aliceblue;
   display: grid;
   grid-template-columns: 3fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr 3fr;
@@ -23,5 +23,5 @@
 
 .delete-btn {
   cursor: "pointer";
-  background-color: rgb(223, 174, 109);
+  background-color: rgb(166, 94, 0);
 }
